@@ -1,0 +1,22 @@
+{
+  "name": "secure-collab-frontend",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "libsodium-wrappers": "^0.7.13",
+    "axios": "^1.7.7"
+  },
+  "devDependencies": {
+    "vite": "^5.4.7",
+    "typescript": "^5.6.2",
+    "@types/react": "^18.2.75",
+    "@types/react-dom": "^18.2.24"
+  }
+}
